@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // new line
+
         Button reset=findViewById(R.id.btn_reset);
         Button zero=findViewById(R.id.btn_zero);
         Button taghsim=findViewById(R.id.btn_taghsim);
