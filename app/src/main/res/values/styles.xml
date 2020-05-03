@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/whiat</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    </style>
+    
+    <style name="button">
+        <item name="android:textColor">@color/buttonbg1</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+</resources>
